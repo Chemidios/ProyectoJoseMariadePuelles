@@ -1,4 +1,5 @@
 # ProyectoJoseMariadePuelles
+de Jose María de Puelles Gutiérrez
 # RA2: Planificación general del proyecto
 
 ## a) Recopilación de información
